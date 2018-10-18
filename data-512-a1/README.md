@@ -6,7 +6,7 @@
 
 ## Outputs
 
-- Link to the Jupyter Notebook :  [Jupyter notebook](https://github.com/lohithbruw/DATA512A/blob/master/hcds-a1-data-curation.ipynb) 
+- Link to the Jupyter Notebook :  [Jupyter notebook](https://github.com/lohithbruw/DATA512A/blob/master/data-512-a1/hcds-a1-data-curation.ipynb) 
 - output files :   
     * en-wikipedia_traffic_200712-201809.csv
     * pagecounts_desktop-site_200712-201607.json
@@ -28,7 +28,7 @@
 
 ## Cleaned/Aggregated Data
 
-The final data is stored in a csv file : [en-wikipedia_traffic_200712-201809.csv]https://github.com/lohithbruw/DATA512A/blob/master/en-wikipedia_traffic_200712-201809.csv) with the following headers
+The final data is stored in a csv file : [https://github.com/lohithbruw/DATA512A/blob/master/data-512-a1/en-wikipedia_traffic_200712-201809.csv] with the following headers
 
 | Column | Value | 
 | ------ | ------ |
@@ -46,4 +46,4 @@ The final data is stored in a csv file : [en-wikipedia_traffic_200712-201809.csv
 
 The final visualization can be found here 
 
-![Wikipedia Page Views Monthly between 2007 and 2018](https://github.com/lohithbruw/DATA512A/blob/master/visualization.png)
+![Wikipedia Page Views Monthly between 2007 and 2018](https://github.com/lohithbruw/DATA512A/blob/master/data-512-a1/visualization.png)
