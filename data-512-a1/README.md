@@ -1,6 +1,3 @@
-
-# Data 512 A Assignment 1 - Data curation
-
 # Data 512 A Assignment 1 - Data curation
 
 ## Goal 
