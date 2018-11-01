@@ -16,10 +16,10 @@
 ## Data sources used
 
 * The Wikipedia dataset can be found here : https://figshare.com/articles/Untitled_Item/5513449
-** Wikipedia dataset contains the following columns:
-*** page : Contains Page title
-*** country : Contains Country names
-*** rev_id :  contains the edit ID of the last edit to the page
+    * Wikipedia dataset contains the following columns:
+        * page : Contains Page title
+        * country : Contains Country names
+        * rev_id :  contains the edit ID of the last edit to the page
 * The population dataset can be found here : https://www.dropbox.com/s/5u7sy1xt7g0oi2c/WPDS_2018_data.csv?dl=0
 
 ## Resources used
