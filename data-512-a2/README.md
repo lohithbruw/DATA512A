@@ -25,10 +25,10 @@
 ## Resources used
 * This analysis was performed in a "Python 3.6.5 :: Anaconda, Inc." environment 
 * The following Python packages were used and their documentation can be found at the accompanying links:
-** requests : http://docs.python-requests.org/en/master/
-** json : https://docs.python.org/3/library/json.html
-** pandas : https://pandas.pydata.org/pandas-docs/stable/
-** numpy : https://docs.scipy.org/doc/
+    * requests : http://docs.python-requests.org/en/master/
+    * json : https://docs.python.org/3/library/json.html
+    * pandas : https://pandas.pydata.org/pandas-docs/stable/
+    * numpy : https://docs.scipy.org/doc/
 
 ## Files Generated
 * The CSV file that contains the combined data from wikipedia and ORES can be found here : https://github.com/lohithbruw/DATA512A/blob/master/data-512-a2/final_data.csv
