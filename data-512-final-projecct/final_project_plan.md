@@ -92,8 +92,8 @@ In addition to answering the questions above, I will try to uncover interesting 
 * The dataset is downloaded form this page : https://catalog.data.gov/dataset/oasdi-beneficiaries-by-state-and-zip-code-2016
 
 ## Other Referenced Material
-[1] https://www.cbpp.org/research/social-security/social-security-keeps-22-million-americans-out-of-poverty-a-state-by-state
-[2] https://www.ssa.gov/oact/tr/2018/tr2018.pdf 
+* [1] https://www.cbpp.org/research/social-security/social-security-keeps-22-million-americans-out-of-poverty-a-state-by-state
+* [2] https://www.ssa.gov/oact/tr/2018/tr2018.pdf 
 
 ## Tools Documentation Sources
 
