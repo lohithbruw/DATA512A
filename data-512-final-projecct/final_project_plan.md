@@ -12,13 +12,13 @@ The annual publication of OASDI(Old-Age, Survivors & Disability Insurance) benef
 This dataset will be used in this analysis to answer some of the research questions and also, if possible, uncover some interesting patterns/insights.
 
 
-## Disclaimer about the Data
+## Disclaimer about the Data <sup>[3](https://www.ssa.gov/policy/docs/statcomps/oasdi_zip/2016/oasdi_zip16.pdf)</sup>
 
 The data in this report are derived from the Master Beneficiary Record, the principal administrative file of Social Security beneficiaries. The Social Security Detailed Office Organization Resource System (DOORS) file was used to associate the field office data with the ZIP Codes. Data for field offices in each state include only beneficiaries in that state. However, some Social Security field offices serve residents of more than one state. To obtain field office totals in these situations, it is necessary to combine data for each state served by the field office. The data include only persons whose benefits are currently payable. Those whose benefits were withheld are excluded.
 
 Errors in the dataset will be updated by the SSA and can be viewed here : https://www.ssa.gov/policy/docs/statcomps/oasdi_zip/2016/index.html
 
-## Anonymity
+## Anonymity <sup>[3](https://www.ssa.gov/policy/docs/statcomps/oasdi_zip/2016/oasdi_zip16.pdf)</sup>
 
 To avoid disclosing the reason for Social Security eligibility of small groups and the amounts of benefits received, a controlled rounding procedure was used for field office and ZIP Code data. Data are not shown for ZIP Codes with fewer than 15 beneficiaries. Under the controlled rounding procedure, ZIP Code data on the number of beneficiaries shown in the table are changed according to the following formula:
 1. If the number is divisible by 5 (ends in 0 or 5), then the numbers are not changed.
@@ -94,6 +94,7 @@ In addition to answering the questions above, I will try to uncover interesting 
 ## Other Referenced Material
 * [1] https://www.cbpp.org/research/social-security/social-security-keeps-22-million-americans-out-of-poverty-a-state-by-state
 * [2] https://www.ssa.gov/oact/tr/2018/tr2018.pdf 
+* [3] https://www.ssa.gov/policy/docs/statcomps/oasdi_zip/2016/oasdi_zip16.pdf
 
 ## Tools Documentation Sources
 
