@@ -60,14 +60,16 @@ To avoid disclosing the reason for Social Security eligibility of small groups a
 | Widow(er)s and parents  | Text(denoting a comma separated number in terms of thousands of dollars)  |
 | Number of OASDI beneficiaries aged 65 or older | Text(denoting a comma seperated number)  |
 
+* If it turns out that I need more data from other sources, I will try to incorporate them during the analysis and quote the source.
+
 
 ## Research Questions
 I am interested in answering the following questions
 
-* What state/zip code receives the highest amount of benefits
-* What state/zip code receives the least amount of benefits
-* What state/zip code has the highest number of people claiming benefits
-* What state/zip code has the least number of people claiming benefits
+* What states/zip codes receive some of the highest/lowest amount of benefits?
+* What states/zip codes have some of the highest/lowest number of people claiming benefits?
+* Do all the zip codes in a given state receive similar amount of benefits, or are there states that have certain zip codes within them that receive a disproportionate amount of benefits as compared to other zip codes in the same state.
+* Do huge-urban areas receive more benefits per eligible person than the rural areas? or is it the other way around? Is it different in different states?
 * What does the distribution of people in the categories Retired workers, Disabled Workers, Widow(er)s and parents, Spouses and children look like for different states and which state has a highly skewed distribution
 
 
