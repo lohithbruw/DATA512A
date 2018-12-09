@@ -87,6 +87,7 @@ In addition to answering the questions above, I will try to uncover interesting 
 * I plan to use the python(3.x) programming language on a Jupyter Notebook
 * I will be using the Matplotlib and/or the Seaborn Library to visualize data wherever appropriate
 * Since the dataset is not really huge, I am planing to run the analysis on my computer instead of using the cloud
+* I may also use Tableau for visualizing data if it feels like it's difficult to use Matplotlib
 
 ## Data Source Reference
 
@@ -105,3 +106,5 @@ In addition to answering the questions above, I will try to uncover interesting 
 * https://pandas.pydata.org/pandas-docs/stable/
 * https://matplotlib.org/contents.html
 * https://seaborn.pydata.org/
+* https://www.tableau.com/learn/training
+* https://public.tableau.com/en-us/s/ 
